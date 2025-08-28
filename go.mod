@@ -20,7 +20,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/spf13/cobra v1.1.3
 	github.com/stretchr/testify v1.7.0
-	github.com/ulikunitz/xz v0.5.10
+	github.com/ulikunitz/xz v0.5.14
 	github.com/xanzy/go-gitlab v0.44.0
 	gocloud.dev v0.22.0
 	golang.org/x/oauth2 v0.0.0-20201203001011-0b49973bad19
